@@ -1,11 +1,6 @@
-##INFO
-Stripe Multi tool was made by roid at BQS // SOLUTIONS
 
 ##Key
-StripeBqs
-
-##Discord
-https://Discord.gg/bqs
+Stripe
 
 ##Features
 1. Nitro Generator
@@ -20,6 +15,8 @@ https://Discord.gg/bqs
 10. Discord
 11. Patch Notes
 12. Exit
+13. Url Shortener
+14. Exit
 
 ##VERSION
-2.0 updated versiob
+3.0 updated version
