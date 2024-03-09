@@ -1,7 +1,4 @@
 
-##Key
-Stripe
-
 ##Features
 1. Nitro Generator
 2. Ip Config
@@ -19,4 +16,4 @@ Stripe
 14. Exit
 
 ##VERSION
-3.0 updated version
+3.5 updated version
